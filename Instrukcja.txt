@@ -1,0 +1,18 @@
+NIE INSTALUJ SILNIKA NA DARMOWYCH HOSTINGACH.
+BÊD¥ PROBLEMY.
+
+ZAINSTALUJ XAMPPA lub WAMPA
+
+WAMPSERVER: www.wampserver.com/en/
+XAMPP: http://sourceforge.net/projects/xampp/
+
+INSTRUKCJA INSTALACJI:
+1. WejdŸ do folderu z silnikiem i znajdŸ plik index.php
+2. Zmieñ ustawienia w tym pliku $po->polaczenie('[SERWER MYSQL]', '[NAZWA U¯YTKOWNIKA MYSQL]', '[HAS£O]', '[BAZA DANYCH]', '[KODOWANIE ZNAKÓW]')
+3. Wgraj plik mysql.sql do swojej bazy danych
+4. Otwórz plik /dev/MAEGONEM_pliki/php/mysql-connect.php
+5. Ustaw po³¹czenie z baz¹
+6. Zrób to samo z plikiem /game/MAEGONEM_pliki/php/mysql-connect.php
+7. wpisz w przegl¹darce localhost i sprawdŸ czy dzia³a lub localhost/folder_z_gra i wiadomo co
+
+9.05.2013 videotut jak wszystko poprawnie zrobiæ

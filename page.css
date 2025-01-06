@@ -1,0 +1,45 @@
+input#login {
+		background: url("images/blogin.png");
+		width: 110px;
+		height: 30px;
+		border: 0px;
+		cursor: pointer;
+}
+input#login:hover {
+		background: url("images/blogin.png");
+		background-position: 0px 30px;
+		width: 110px;
+		height: 30px;
+		border: 0px;
+		cursor: pointer;
+}
+input#register {
+		background: url("images/breg.png");
+		width: 200px;
+		height: 30px;
+		border: 0px;
+		cursor: pointer;
+}
+input#register:hover {
+		background: url("images/breg.png");
+		background-position: 0px 30px;
+		width: 200px;
+		height: 30px;
+		border: 0px;
+		cursor: pointer;
+}
+input#cc {
+		background: url("images/butcc.png");
+		width: 160px;
+		height: 26px;
+		border: 0px;
+		cursor: pointer;
+}
+input#cc:hover {
+		background: url("images/butcc.png");
+		background-position: 0px 26px;
+		width: 160px;
+		height: 26px;
+		border: 0px;
+		cursor: pointer;
+}

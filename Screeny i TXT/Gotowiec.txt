@@ -1,0 +1,5 @@
+Lub pobierz plik vdi dla VirtualBox
+
+Gotowiec.
+
+Zawiera wszystkie konfiguracje
